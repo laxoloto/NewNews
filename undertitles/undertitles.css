@@ -1,0 +1,27 @@
+#HelpUpperText {
+    text-align: right;
+    color: red;
+    font-size: 45px;
+    border: 2px solid red;
+}
+
+#HelpsWhat {
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+#BackFromHelp {
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#CreditUpperText {
+    text-align: right;
+    color: red;
+    font-size: 45px;
+    border: 2px solid red;
+}

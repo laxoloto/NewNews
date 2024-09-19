@@ -1,0 +1,25 @@
+#MainUpperText {
+    font-size: 75px;
+    color: red;
+    text-align: right;
+    border: 2px solid red;
+    text-align: center;
+}
+
+#HelpButton {
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    display: inline-block;
+}
+
+#CreditButton {
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    display: inline-block;
+}
+
+body {
+    background-color: rgba(131, 131, 131, 0.758);
+}

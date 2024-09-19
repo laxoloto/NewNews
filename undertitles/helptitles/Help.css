@@ -1,0 +1,11 @@
+#HelpWhatUpperText {
+    text-align: right;
+    color: red;
+    font-size: 45px;
+    border: 2px solid red;
+}
+
+#BackFromHelpWhat {
+    color: black;
+    text-decoration: none;
+}
